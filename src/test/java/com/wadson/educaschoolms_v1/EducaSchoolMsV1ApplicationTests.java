@@ -8,6 +8,8 @@ class EducaSchoolMsV1ApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
+
 
 }
